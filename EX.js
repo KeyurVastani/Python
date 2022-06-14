@@ -36,6 +36,8 @@ function reduce(s, l)
 let s = "cccc";
 let l = s.length;
  
+
+
 console.log((reduce(s, l)))
  
 // This code is contributed by mukesh07  
